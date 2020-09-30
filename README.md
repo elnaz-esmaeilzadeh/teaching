@@ -1,3 +1,3 @@
 # teaching
 
-This repository is to share the codes I regularly write to demonstrate different topics in the classroom.
+This repository is created to share Jupyter notebooks and codes I regularly write in support of courses I teach at the University of Nevada Reno.
